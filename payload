@@ -1,4 +1,1 @@
-GET https://openlibrary.org/search.json
-?q=frankenstein
-&sort=new
-&limit=5
+https://my-json-server.typicode.com/katjenkin/Kat-API/
